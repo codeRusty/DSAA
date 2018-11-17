@@ -5,9 +5,6 @@ using System.Text;
 using BackToSuccess.Basics;
 using BackToSuccess.ListsAndArrays;
 using System.Diagnostics;
-using OpenQA.Selenium;
-using OpenQA.Selenium.Chrome;
-using OpenQA.Selenium.Support;
 using System.Threading;
 using BackToSuccess.OopsConcepts;
 using BackToSuccess.DS;
@@ -22,11 +19,11 @@ namespace BackToSuccess
         {
             Stopwatch stopwatch = new Stopwatch();
             stopwatch.Start();
-
+            Palindrome.Execute();
             // BinaryTree.Execute();
             // PancakePackager.Execute();
             // LinearSearch.Execute();
-            BinarySearch.Execute();
+          //  BinarySearch.Execute();
             stopwatch.Stop();
             // Write result.
             Console.WriteLine("Execution time: {0}", stopwatch.Elapsed);
