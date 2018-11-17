@@ -34,7 +34,7 @@ namespace BackToSuccess.Problems
 
         public int Fib(int num)
         {
-
+            return 1;
         }
 
     }
