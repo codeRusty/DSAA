@@ -93,7 +93,9 @@
     <Compile Include="ListsAndArrays\Patterns.cs" />
     <Compile Include="ListsAndArrays\ReverseArray.cs" />
     <Compile Include="OopsConcepts\LearnYield.cs" />
+    <Compile Include="Problems\CuttingRod.cs" />
     <Compile Include="Problems\Fibonacci.cs" />
+    <Compile Include="Problems\Palindrome.cs" />
     <Compile Include="Problems\PancakePackager.cs" />
     <Compile Include="Problems\Prime.cs" />
     <Compile Include="Program.cs" />
