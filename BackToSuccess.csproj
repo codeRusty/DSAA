@@ -98,6 +98,7 @@
     <Compile Include="Problems\Palindrome.cs" />
     <Compile Include="Problems\PancakePackager.cs" />
     <Compile Include="Problems\Prime.cs" />
+    <Compile Include="Problems\PrintPattern.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="RnD\Automate.cs" />

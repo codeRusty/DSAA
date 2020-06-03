@@ -19,7 +19,8 @@ namespace BackToSuccess
         {
             Stopwatch stopwatch = new Stopwatch();
             stopwatch.Start();
-            Palindrome.Execute();
+            PrintPattern.Execute();
+            // Palindrome.Execute();
             // BinaryTree.Execute();
             // PancakePackager.Execute();
             // LinearSearch.Execute();
